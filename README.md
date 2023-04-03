@@ -16,6 +16,9 @@ this is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
-### Copyright
+## Copyright
 
 2014 Git. Training
+
+## New Information
+forgot to add merge with --no-ff and need to redo.
